@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  GameCenterMultiplayer
 //
-//  Created by Rithik Parekh on 29/06/20.
+//  Created by 509
 //
 
 import UIKit
